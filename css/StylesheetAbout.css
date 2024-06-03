@@ -1,0 +1,19 @@
+
+/*fonts headings and paragraphs*/
+h1{
+    border-style: dotted;
+    border-width: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: black;
+    
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
