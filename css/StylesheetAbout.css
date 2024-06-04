@@ -16,6 +16,50 @@ h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+#p1{
+    position: relative;
+    left: 620px;
+    top : 850px;
+}
+
+#p2 {
+    font-size: 180%;
+    position: relative;
+    top: 50px;
+
+}
 /*divs and beyond*/
+
+
+
+
+
+/*imgs and such*/
+#me { 
+    width:600px ;
+    height: 800px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width : 10px;
+}
+
+#holly{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 610px;
+    top: 465px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width : 10px;
+}
+
+.card{
+    position:relative;
+    top : 50px;
+}
+
+
+
 
 
