@@ -43,8 +43,19 @@ h2 {
     border-width : 10px;
 }
 
+#me-bald{
+    width:400px ;
+    height: 300px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width : 10px;
+    position: absolute;
+    top: 160px;
+    left:611px;
+}
+
 #holly{
-    width: 500px;
+    width: 400px;
     height: 500px;
     position: absolute;
     left: 610px;
@@ -58,8 +69,35 @@ h2 {
     position:relative;
     top : 50px;
 }
+/*buttons*/
 
 
+#button2{
+    position: absolute;
+    left: 00px;
+    top: 1480px;
+    width: 180px;
+    height: 50px;
+}
+#button3{
+    position: absolute;
+    left: 200px;
+    top: 1480px;
+    width: 180px;
+    height: 50px;
+}
+#button4{
+    position: absolute;
+    top:120px;
+    width: 70px;
+    
+    
+}
+.paragraph1{
+    position: relative;
+    left: 500px;
+    top: -310px;
+}
 
 
 
