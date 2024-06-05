@@ -1,43 +1,87 @@
 
 
-#h2{
+#Draw-H{
     text-align: center;
+    position: relative;
+    top:00px;
+    border-bottom: solid;
+    border-bottom-width: 4px;
+ }
+
+
+#Model-H{
+    text-align: center;
+    position: relative;
+    top:-600px;
+    border-bottom: solid;
+    border-bottom-width: 4px;
+ 
+}
+
+#Title-H{
+    text-align: center;
+    position: relative;
+    top:-400px;
+}
+
+#Unity-H{
+    text-align: center;
+    position: relative;
+    top:-400px;
+}
+#project-H{
+    text-align: center;
+    position: relative;
+    top:-870px;
+   border-bottom: solid;
+   border-bottom-width: 4px;
 }
 #h2{
     text-align: center;
-}
-#h2{
-    text-align: center;
+    position: relative;
+    top:-400px;
 }
 #Video1{
 
     width: 600px;
     height: 600px;
+    
 }
 
 #Video2{
     width: 600px;
     height: 600px;
+   
 }
 
 #Model1{
-    width: 600px;
+    width: 800px;
     height: 600px;
+    
+    position: relative;
+    top:-600px;
 }
 
 #Model2{
-    width: 600px;
+    width: 800px;
     height: 600px;
+    position: relative;
+    top:-600px;
 }
 
 #Model3{
-    width: 600px;
+    width: 800px;
     height: 600px;
+    position: relative;
+    top:-600px;
 }
 
 #Model4{
-    width: 600px;
+    width: 800px;
     height: 600px;
+    position: relative;
+    top:-600px;
+    left:805px;
 }
 
 #Manga1{
@@ -92,24 +136,55 @@
 #button2{
     position: absolute;
     left: 00px;
-    top: 1980px;
+    top: 2280px;
     width: 180px;
     height: 50px;
 }
 #button3{
     position: absolute;
     left: 200px;
-    top: 1980px;
+    top: 2280px;
     width: 180px;
     height: 50px;
 }
+
 #button4{
     position: absolute;
     top:50px;
-    width: 70px;
+    width: 150px;
     left :20px;
     
     
 }
+#button5{
+    position: absolute;
+    left: 400px;
+    top: 2280px;
+    width: 180px;
+    height: 50px;
+}
+.card-1{
+   position: relative;
+   left: 1700px;
+   top: -600px;
+}
 
+.card-2{
+    position: relative;
+    left: 140px;
+    top: -380px;
+    
+ }
+ .card-3{
+    position: relative;
+    left: 1700px;
+    top:300px;
+    
+    
+ }
+ .col-md-6{
+
+     position: relative;
+    top:-800px;
+ }
 
