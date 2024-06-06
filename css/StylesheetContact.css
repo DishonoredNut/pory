@@ -1,0 +1,31 @@
+.custom-input-group {
+    width: 100%; /* Default width */
+    max-width: 500px; /* Maximum width */
+    margin: 0 auto; /* Center the element */
+}
+
+.custom-button {
+    width: 100%; /* Full width button */
+    max-width: 500px; /* Maximum width */
+    margin: 0 auto; /* Center the button */
+    display: block; /* Ensure the button is block level */
+}
+
+/* Adjusting input size */
+.custom-input-group .form-control {
+    font-size: 1.2rem; /* Larger font size */
+    padding: 10px; /* Padding inside the input */
+}
+
+/* Adjusting input-group text size */
+.custom-input-group .input-group-text {
+    font-size: 1.2rem; /* Larger font size */
+    padding: 10px; /* Padding inside the input-group text */
+}
+
+/* Label size */
+label {
+    font-size: 1.2rem; /* Larger font size for label */
+    margin-bottom: 10px; /* Space below the label */
+    display: block; /* Ensure the label is block level */
+}
