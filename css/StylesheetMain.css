@@ -28,3 +28,25 @@ body, html {
     border-bottom: solid;
     border-color: black;
 }
+
+
+.scrollable {
+    max-height: 200px; 
+    overflow-y: auto; 
+}
+
+#phone-image{
+    height: 400px;
+    width: 400px;
+}
+
+#new-Head{
+    position: relative;
+    top: -100px;
+    left:0px;
+}
+
+.scrollable1 {
+    max-height: 200px; 
+    overflow-y: auto; 
+}
