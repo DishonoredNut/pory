@@ -29,3 +29,38 @@ label {
     margin-bottom: 10px; /* Space below the label */
     display: block; /* Ensure the label is block level */
 }
+
+#button2{
+    width: 180px;
+    height: 70px;
+    position: absolute;
+    top: 170px;
+
+}
+
+#button3{
+    width: 180px;
+    height: 70px;
+    position: absolute;
+    top: 80px;
+}
+
+#button5{
+    width: 180px;
+    height: 70px;
+    position: absolute;
+    top: 270px;
+}
+
+#Details{
+    left: 300px;
+}
+#Vanity{
+    left: 300px;
+}
+
+.card-4{
+    position: relative;
+    left: 1000px;
+    top: -800px;
+}
