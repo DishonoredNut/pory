@@ -1,10 +1,30 @@
-*{
+
+
+.card-4{
+    position: relative;
+    left: 500px;
+    top: 0;
+}
+/*laser*/
+body, html {
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
-}
-section{
-    height: 100%;
     width: 100%;
-    background: #000;
+    height: 100%;
+    overflow: hidden;
+}
+
+#laserCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+#Align-H{
+    text-align: center;
+    border-bottom: solid;
+    border-color: black;
 }
